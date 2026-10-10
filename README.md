@@ -1,4 +1,4 @@
-# Advanced College Kit Booking System
+# Kit Booking System
 
 A maintainable Java 17 console application designed around SOLID principles and small, replaceable components.
 
